@@ -1,0 +1,9 @@
+﻿  Qfloat.cpp
+c:\users\npqua\desktop\doanqfloat\project1\qfloat.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\npqua\desktop\doanqfloat\project1\qfloat.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\npqua\desktop\doanqfloat\project1\qfloat.cpp(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\npqua\desktop\doanqfloat\project1\qfloat.cpp(412): warning C4018: '<': signed/unsigned mismatch
+c:\users\npqua\desktop\doanqfloat\project1\qfloat.cpp(822): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\npqua\desktop\doanqfloat\project1\qfloat.cpp(885): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\npqua\Desktop\DoAnQfloat\Debug\Project1.exe
+  Project1.vcxproj -> C:\Users\npqua\Desktop\DoAnQfloat\Debug\Project1.pdb (Partial PDB)
